@@ -1,6 +1,6 @@
 
 # By T3d 
-I' am :man firefighter:
+I' am :manfirefighter:
 ## MAIL SERVER: POSTFIX
 
 ## INSTALLATION
@@ -22,17 +22,24 @@ _Error_: sasl2-bin: Depend: db-util is not install (or others sentense like this
 When you try to install db-util with `sudo apt install sasl2-bin` you observe others error </br> 
 ## Resolve Bugs and Error</br>
 
-Go to `pkgs.org`[pkgs.org for amd64 system](https://debian.pkgs.org/10/debian-main-amd64)  where i take this link [sasl2-bin](https://debian.pkgs.org/10/debian-main-amd64/sasl2-bin_2.1.27+dfsg-1+deb10u2_amd64.deb.html)
+Go to `pkgs.org`[pkgs.org for amd64 system](https://debian.pkgs.org/10/debian-main-amd64)  where i take this link [sasl2-bin](https://debian.pkgs.org/10/debian-main-amd64/sasl2-bin_2.1.27+dfsg-1+deb10u2_amd64.deb.html)  </br> 
 
- </br> 
-To install (`bd-util`)
-### db-util install
-	`wget http://ftp.de.debian/pool/main/d/db-defaults/db-defaults/db-util_5.3.1+nmu1_all.deb`   </br>
+
+ 
+To install `bd-util`  </br> 
+
+
+## db-util install
+
+	`wget http://ftp.de.debian/pool/main/d/db-defaults/db-defaults/db-util_5.3.1+nmu1_all.deb`    </br>
+	
+	
+	 
 	`sudo dpkg -i db-util_5.3.8+nmu1_all.deb`
  </br>
-### 3 error 
+## 3th error 
 
- <dt>~~db-util </dt> depend on db5.3-util and this package is not install  </br>
+ db-util depend on db5.3-util and this package is not install  </br>
 
 ## Resolve 3 error  </br>
 :key:
