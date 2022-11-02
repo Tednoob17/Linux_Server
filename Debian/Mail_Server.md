@@ -42,7 +42,7 @@ To install `bd-util`  </br>
 
 ## Resolve 3th error  👨‍💻️ </br> 
 :key:
-	`wget http://ftp.de.debian/pool/main/d/db-5.3/db5.3-util_5.3.28+dfsg1-0.5_amd64`  </br>
+	wget http://ftp.de.debian/pool/main/d/db-5.3/db5.3-util_5.3.28+dfsg1-0.5_amd64  </br>
 	
 	sudo dpkg -i db5.3-util_5.3.28+dfsg1-0-5_amd64.deb  
  </br>
@@ -50,7 +50,7 @@ and re-try  </br>
 
 	sudo dpkg -i db-util_5.3.8+nmu1_all.deb
 and 
-	`sudo apt install postfix sasl2-bin` 
+	sudo apt install postfix sasl2-bin
 
 ## Interface Choice
 
@@ -62,7 +62,7 @@ and
 
 # Next 
 
-## Server-world
+## Server-world 📌️
 
 [server-world](https://www.server-world.info/en/note?os=Debian_10&p=mail&f=1)
 
