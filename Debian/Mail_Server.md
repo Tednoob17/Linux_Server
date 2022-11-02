@@ -42,7 +42,7 @@ To install `bd-util`  </br>
 
 ## Resolve 3th error  👨‍💻️ </br> 
 :key:
-	wget http://ftp.de.debian/pool/main/d/db-5.3/db5.3-util_5.3.28+dfsg1-0.5_amd64  </br>
+	`wget http://ftp.de.debian/pool/main/d/db-5.3/db5.3-util_5.3.28+dfsg1-0.5_amd64`  </br>
 	
 	sudo dpkg -i db5.3-util_5.3.28+dfsg1-0-5_amd64.deb  
  </br>
