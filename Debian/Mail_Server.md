@@ -32,9 +32,9 @@ To install `bd-util`  </br>
 
 ## db-util install
 
-	`wget http://ftp.de.debian/pool/main/d/db-defaults/db-defaults/db-util_5.3.1+nmu1_all.deb`    
+	wget http://ftp.de.debian/pool/main/d/db-defaults/db-defaults/db-util_5.3.1+nmu1_all.deb   
 	
-		`sudo dpkg -i db-util_5.3.8+nmu1_all.deb`
+		sudo dpkg -i db-util_5.3.8+nmu1_all.deb
  </br>
 ## 3th error 🤺️
 
@@ -52,7 +52,8 @@ and re-try  </br>
 
 and 
 	
-	sudo apt install postfix sasl2-bin  </br>
+	`sudo apt install postfix sasl2-bin` 
+
 
 	 Choice 'No configuration' when the special shell interface display
 	 
