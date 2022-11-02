@@ -31,11 +31,9 @@ To install `bd-util`  </br>
 
 ## db-util install
 
-	`wget http://ftp.de.debian/pool/main/d/db-defaults/db-defaults/db-util_5.3.1+nmu1_all.deb`    </br>
+	`wget http://ftp.de.debian/pool/main/d/db-defaults/db-defaults/db-util_5.3.1+nmu1_all.deb`    
 	
-	
-	 
-	`sudo dpkg -i db-util_5.3.8+nmu1_all.deb`
+		`sudo dpkg -i db-util_5.3.8+nmu1_all.deb`
  </br>
 ## 3th error 
 
@@ -43,20 +41,20 @@ To install `bd-util`  </br>
 
 ## Resolve 3 error  </br>
 :key:
-	`wget http://ftp.de.debian/pool/main/d/db-5.3/db5.3-util_5.3.28+dfsg1-0.5_amd64`
-	 </br>
+	`wget http://ftp.de.debian/pool/main/d/db-5.3/db5.3-util_5.3.28+dfsg1-0.5_amd64`  </br>
+	
 	`sudo dpkg -i db5.3-util_5.3.28+dfsg1-0-5_amd64.deb`  </br>
  </br>
-	==and re-try==
+and re-try
  </br>	
 	`sudo dpkg -i db-util_5.3.8+nmu1_all.deb` 
  </br>
-	==and==  </br>
+and </br>
 	
 	`sudo apt install postfix sasl2-bin`  </br>
 
 	 <dt>Choice 'No configuration' when the special shell interface display ~~  </dt>
-	==Bug out==
+	😹️`Bug out`
 
 
 # Next 
