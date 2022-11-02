@@ -49,11 +49,10 @@ To install `bd-util`  </br>
 and re-try  </br>
 
 	sudo dpkg -i db-util_5.3.8+nmu1_all.deb
-
 and 
-	
 	`sudo apt install postfix sasl2-bin` 
 
+## Interface Choice
 
 	 Choice 'No configuration' when the special shell interface display
 	 
