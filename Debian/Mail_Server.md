@@ -43,24 +43,26 @@ To install `bd-util`  </br>
 :key:
 	`wget http://ftp.de.debian/pool/main/d/db-5.3/db5.3-util_5.3.28+dfsg1-0.5_amd64`  </br>
 	
-	`sudo dpkg -i db5.3-util_5.3.28+dfsg1-0-5_amd64.deb`  </br>
+	sudo dpkg -i db5.3-util_5.3.28+dfsg1-0-5_amd64.deb  </br>
  </br>
-and re-try
- </br>	
+and re-try  </br>
+
 	`sudo dpkg -i db-util_5.3.8+nmu1_all.deb` 
- </br>
-and </br>
+
+and 
 	
 	`sudo apt install postfix sasl2-bin`  </br>
 
-	 <dt>Choice 'No configuration' when the special shell interface display ~~  </dt>
+	 Choice 'No configuration' when the special shell interface display
+	 
+	 
 	😹️`Bug out`
 
 
 # Next 
 
 ## Server-world
- </br>
+
 [server-world](https://www.server-world.info/en/note?os=Debian_10&p=mail&f=1)
 
-==End==
+End
