@@ -23,7 +23,7 @@ _Error_: sasl2-bin: Depend: db-util is not install (or others sentense like this
 When you try to install db-util with `sudo apt install sasl2-bin` you observe others error </br> 
 ## Resolve Bugs and Error</br>
 
-Go to `pkgs.org`[pkgs.org for amd64 system](https://debian.pkgs.org/10/debian-main-amd64)  where i take this link [sasl2-bin](https://debian.pkgs.org/10/debian-main-amd64/sasl2-bin_2.1.27+dfsg-1+deb10u2_amd64.deb.html)  </br> 
+Go to `pkgs.org`[pkgs.org for amd64 system](https://debian.pkgs.org/10/debian-main-amd64/)  where i take this link [sasl2-bin](https://debian.pkgs.org/10/debian-main-amd64/sasl2-bin_2.1.27+dfsg-1+deb10u2_amd64.deb.html)  </br> 
 
 
  
